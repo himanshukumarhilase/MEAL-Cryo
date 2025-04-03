@@ -13,3 +13,35 @@
  - Disseminate reproducible data and analysis in open-access form
  - Share early results through preprints and open science platforms
  
+## 🧪 Materials
+
+ Fe-based medium entropy aloy
+
+ ## 💡 Experimental Design
+
+- Laser powder bed fusion (LPBF) deposition of the Fe-based medium entropy alloy.
+- Investigation of microstructural, mechanical and fatigue properties and deformation mechanism of the alloy in the as deposited state.
+- Laser Shock Peening (LSP) applied using high-energy pulsed lasers.
+- Laser annealing/ Laser hardening of additivily manufactured Fe-based medium entropy alloy
+- Comprative investigation of microstructural, mechanical and fatigue properties and deformation mechanism post treatment.
+
+ ## 📁 Repository Structure
+
+ - `data/` – raw and processed experimental data (CSV, XLSX, etc.)
+ - `docs/` – documentation of methods, parameters, and experimental setup
+ - `notebooks/` – Jupyter notebooks for data analysis and visualization
+ - `preprints/` – submitted manuscripts and preprint drafts
+ - `metadata/` – detailed metadata for each experiment (YAML/JSON)
+ - `CHANGELOG.md` – record of changes to the dataset or structure
+ - `LICENSE` – license for reuse and redistribution
+
+## 📤 Dissemination Plan
+ 
+- Preliminary versions of publications will be shared on platforms such as:
+   - [arXiv.org](https://arxiv.org)
+   - [preprints.org](https://www.preprints.org)
+   - [SSRN](https://www.ssrn.com)
+   - [engrXiv](https://engrxiv.org)
+
+
+ - All datasets and scripts will be released under an open license.
