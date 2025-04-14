@@ -27,7 +27,7 @@
 
  ## 📁 Repository Structure
 
- - `data/` – raw and processed experimental data (CSV, XLSX, etc.)
+ - `data/` – raw and processed experimental data (CSV, XLSX, JPJ etc.)
  - `docs/` – documentation of methods, parameters, and experimental setup
  - `notebooks/` – Jupyter notebooks for data analysis and visualization
  - `preprints/` – submitted manuscripts and preprint drafts
