@@ -19,10 +19,11 @@
 
  ## 💡 Experimental Design
 
-- Laser powder bed fusion (LPBF) deposition of the Fe-based medium entropy alloy.
-- Investigation of microstructural, mechanical and fatigue properties and deformation mechanism of the alloy in the as deposited state.
+- Vacuum arc melting and casting of Fe-based medium entropy alloy followed by homogenisation, forging and hot rolling.
+- Optimisation of homosination temperature and holding time followed by microstructural analysis, and phase analysis.
+- Investigation of microstructural, mechanical and tensile properties and deformation mechanism of the alloy in the as hot rolled state.
 - Laser Shock Peening (LSP) applied using high-energy pulsed lasers.
-- Laser annealing/ Laser hardening of additivily manufactured Fe-based medium entropy alloy
+- Annealing/recrystallisation of hot rolled Fe-based medium entropy alloy
 - Comprative investigation of microstructural, mechanical and fatigue properties and deformation mechanism post treatment.
 
  ## 📁 Repository Structure
