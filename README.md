@@ -4,12 +4,11 @@
 
 ## 🎯 Project Goals
  
- - Investigate the effect of microstructural, mechanical and fatigue properties of the alloy in the as deposited state.
- - Investigate the infulence of the laser shock peening (LSP) with tape and with paint on the microstructure, mechanical and fatigue properties of the developed Fe-based 
-   medium entropy alloy.
+ - Investigate the effect of microstructural, mechanical and tensile properties of the Fe-based MEA in the as hot rolled state.
+ - Optimisation of the laser shock peening (LSP) parameters and investigate the microstructure, residual stress, mechanical and tensile properties of the developed Fe-based medium entropy alloy.
  - Compare the improvements in the microstructure and mechanical properties of the alloy pre and post LSP treatement.
- - Evaluate the effect of laser annealing/Laser hardening on the microstructure, mechanical and fatigue behaviour of the developed Fe-based medium entropy alloy.
- - Compare the improvements in the mechanical and fatigue properties with as deposited and treated samples.
+ - Evaluate the effect of annealing on the microstructure, mechanical and tensile behaviour of the developed Fe-based medium entropy alloy.
+ - Compare the improvements in the mechanical and tensile properties with as deposited and treated samples.
  - Disseminate reproducible data and analysis in open-access form
  - Share early results through preprints and open science platforms
  
