@@ -1,6 +1,6 @@
 # MEAL-Cryo : Developement of medium entropy alloy using lasers for cryogenic applications
 
-**MEAL-Cryo** is a research project focused on developement of Fe-based medium entropy alloy using **laser powder bed fusion** and improving it's mechanical and fatigue properties using the **Laser Shock Peening (LSP)** and **Laser annealing/Laser hardening**. The laser shock peening parameters will be optimized to acheive the maximum pinning with black tape and paint as secrificial layer. The laser annealing/Laser hardening effect on the microstructure, mechanical and fatigue properties will be investigated.
+**MEAL-Cryo** is a research project focused on developement of Fe-based medium entropy alloy using **Casting and Hot rolling** and improving it's tensile and mechanical properties using the **Laser Shock Peening (LSP)** and **Annealing/Laser hardening**. The laser shock peening parameters will be optimized to acheive the maximum pinning with black tape and paint as secrificial layer. The laser annealing/Laser hardening effect on the microstructure, mechanical and fatigue properties will be investigated.
 
 ## 🎯 Project Goals
  
