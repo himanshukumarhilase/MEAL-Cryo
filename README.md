@@ -15,7 +15,7 @@
  
 ## 🧪 Materials
 
- Fe-based medium entropy aloy
+ Fe-based Fe57.67Cr14.64Ni13.22Si2.64Al1.52Mn10.31 medium entropy aloy
 
  ## 💡 Experimental Design
 
